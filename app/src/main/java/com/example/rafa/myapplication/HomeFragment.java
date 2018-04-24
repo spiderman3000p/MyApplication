@@ -56,6 +56,7 @@ public class HomeFragment extends Fragment {
         cv2 = (CardView) view.findViewById(R.id.cardview2);
         cv2.setOnClickListener(new View.OnClickListener() {
             @Override
+
             public void onClick(View view) {
                 Intent intent = new Intent(getContext(),MapsActivity.class);
                 Bundle args = new Bundle();
