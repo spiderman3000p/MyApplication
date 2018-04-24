@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">TurismoApp</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_favoritos">Favoritos</string>
+    <string name="title_cuenta">Mi Cuenta</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_title">Hola!</string>
+    <string name="login_msg">Inicia sesion para acceder a contenido exclusivo</string>
+    <string name="iniciar_sesion">Iniciar sesion</string>
+    <string name="title_activity_maps">Maps</string>
+    <string name="pick_place">Elija un lugar</string>
+    <string name="default_info_title">Informacion</string>
+    <string name="default_info_snippet">Hola</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Entrar o Registrarse</string>
+    <string name="action_sign_in_short">Entrar</string>
+    <string name="error_invalid_email">Este email es invalido</string>
+    <string name="error_invalid_password">Esta contraseña es invalida</string>
+    <string name="error_incorrect_password">Esta contraseña es incorrecta</string>
+    <string name="error_field_required">Este campo es obligatorio</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string name="db_url">jdbc:mysql://sql10.freemysqlhosting.net:3306/sql10234175</string>
+    <string name="db_password">GaYqBKVq21</string>
+    <string name="db_user">sql10234175</string>
+
+</resources>
